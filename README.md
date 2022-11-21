@@ -19,6 +19,6 @@ la extension en el archivo (**index.html**) descomentar cada punto uno a uno y d
 **- Ejercicio 3:**  Se debe modificar el archivo (**index.html**) en su etiqueta (**src**) y cambiar el contenido de la etiqueta a (problema3.js) posterior a esto
 dirigirse a la carpeta en la cual fue clonado el repositorio abrir la caperta (**app**) y dentro de ella dar doble click sobre el (**index.html**); tener en cuenta la consola del navegador.
 
-** -Ejercicio 4:**  Se deben seguir las instrucciones del ejercicio 2 con la salvedad que al momento de editar la eiqueta (**src**) se DEBE cambiar por (**problema2.js**); tener en cuenta la consola del navegador.
+**- Ejercicio 4:**  Se deben seguir las instrucciones del ejercicio 2 con la salvedad que al momento de editar la eiqueta (**src**) se DEBE cambiar por (**problema2.js**); tener en cuenta la consola del navegador.
 
-** Ejercicio 6: ** Simplemente se debe dirigir a la carpeta en la cual fue clonado el repositorio abrir la caperta (**app**) y dentro de ella dar doble click sobre el (**index2.html**)
+**- Ejercicio 6:** Simplemente se debe dirigir a la carpeta en la cual fue clonado el repositorio abrir la caperta (**app**) y dentro de ella dar doble click sobre el (**index2.html**)
