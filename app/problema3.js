@@ -38,7 +38,6 @@ contra.forEach(values => {
 
 //validacion letras consecutivas
 for (let i = 0; i < contra.length; i++) {
-  console.log(i);
   if (contra[i] === contra[i + 1]) {
     contadorLetrasIguales++
   }
